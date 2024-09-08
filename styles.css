@@ -1,6 +1,6 @@
 @font-face {
     font-family:'fortnite';
-    src: url(/assets/fortnite.otf);
+    src: url(assets/fortnite.otf);
 }
 body {
     font-family: fortnite;

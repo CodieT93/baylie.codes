@@ -1,12 +1,15 @@
+
 @font-face {
     font-family:'fortnite';
-    src: url(assets/fortnite.otf);
+    src: url(fortnite.otf);
 }
+
 body {
-    font-family: fortnite;
+    font-family: 'fortnite', sans-serif;
     background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%);
     color: aliceblue;
 }
+
 h1,h2,h3,h4,h5 {
     color: #333;
 }
@@ -30,6 +33,6 @@ section {
     border-radius: 10px;
 }
 
-black1 {
+.black1 {
     background-color: #333;
 }
